@@ -1,0 +1,51 @@
+@font-face { font-family: test; src: url('./fonts/BetterGrade-519DV.ttf'); } 
+h1 {
+color:#FF00B0;
+font-family:test;
+font-size:105;
+text-align:center;
+background-color:#FEDC86;
+border-radius:50px;
+}
+body{
+width:70%;
+margin:auto;
+display:block;
+font-family:Sans-Serif;
+background-color:#fff8e1;
+
+}
+.content{
+background-color:#FEDC86;
+padding:15px;
+border-radius:20px;
+}
+.post {
+background-color:pink;
+margin:auto;
+padding:30px;
+width:70%;
+max-width:700px;
+border-radius:50px;
+margin-bottom: 50px;
+}
+
+.post img{
+display:block;
+margin-left:auto;
+margin-right:auto;
+width:50%;
+border: 5px solid #555;
+margin-bottom: 50px;
+
+}
+.post p{
+background-color:#FFFA84;
+padding:15px;
+max-width:60%;
+margin:auto;
+border-radius:20px;
+}
+.post h6{
+text-align:right;
+}
